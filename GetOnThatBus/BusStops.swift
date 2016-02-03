@@ -8,6 +8,16 @@
 
 import UIKit
 
-class BusStops: NSDictionary {
-
+class BusStops: NSObject {
+    let latitude: String
+    let longitude: String
+    let stopName: String
+    let routes: String
+    
+    init(longitude: String, latitude: String, stopName:String, routes:String) {
+        self.longitude = longitude
+        self.latitude = latitude
+        self.stopName = stopName
+        self.routes = routes
+    }
 }

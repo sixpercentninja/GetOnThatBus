@@ -9,6 +9,7 @@
 import UIKit
 
 class DetailsViewController: UIViewController {
+    var selectedBusStopPin = BusStops?()
 
     override func viewDidLoad() {
         super.viewDidLoad()

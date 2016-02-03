@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B91CE856A8DD52AEA0BF70D2101889960BD58027",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B91CE856A8DD52AEA0BF70D2101889960BD58027" : 0,
+    "AE8B282D70246D48C27060F488F35085970D0327" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "381BAAD5-7968-4248-A02A-D186B54A8CD5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B91CE856A8DD52AEA0BF70D2101889960BD58027" : "GetOnThatBus\/",
+    "AE8B282D70246D48C27060F488F35085970D0327" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GetOnThatBus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GetOnThatBus.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bikisDesign\/eloquentList.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AE8B282D70246D48C27060F488F35085970D0327"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sixpercentninja\/GetOnThatBus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B91CE856A8DD52AEA0BF70D2101889960BD58027"
+    }
+  ]
+}
